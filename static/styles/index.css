@@ -1,0 +1,27 @@
+@media (min-width: 860px) {
+    .columnaizq {
+        float: left;
+        position: fixed;
+    }
+}
+
+@media (min-width: 860px) {
+    .columnader {
+        float: right;
+    }
+}
+
+@media (max-width: 860px) {
+    .columnaizq {
+        float: none;
+        display: block;
+        position: static;
+    }
+}
+
+@media (max-width: 860px) {
+    .columnader {
+        float: none;
+        position: relative;
+    }
+}

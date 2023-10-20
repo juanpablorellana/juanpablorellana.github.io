@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.fotos {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.progra {
+    display: flex;
+    flex-flow: column;
+}

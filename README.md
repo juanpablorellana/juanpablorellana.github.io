@@ -1,2 +1,2 @@
 # Juan Pablo Orellana
-Saludos! Muy buen día comité
+Saludos! Muy buen día.
